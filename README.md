@@ -1,0 +1,2 @@
+# odev
+github hakkında bilgi
